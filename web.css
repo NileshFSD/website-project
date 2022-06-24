@@ -354,6 +354,7 @@ background-color: #3882f6;
 
 .btn1{
 border: 3px solid white;
+margin-top: 0%;
 }
 
 .btn1 a{
@@ -365,11 +366,11 @@ border: 3px solid white;
 
     .container4 {
             width: auto;
-            height: 250px;
+            height: 200px;
         }
     .pbox {
             width: 80%;
-            height: 150px;
+            height: 100px;
         }
     
         .cbox1 {
