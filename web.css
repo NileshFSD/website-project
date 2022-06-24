@@ -279,7 +279,7 @@ h2 {
 }
 
 .content-box{
-    width: auto;
+    width: 60%;
     height: 260px;
     align-items: center;
     font-size: 36px;
@@ -294,9 +294,10 @@ h2 {
 @media only screen and (max-width: 800px) {
     .container3 {
             width: 100%;
-            max-height:  400px;
+            max-height:  300px;
             display: flex;
             flex-wrap: wrap;
+            
             align-content: center;
             /* overflow:auto; */
         }
@@ -304,7 +305,6 @@ h2 {
         .content-box {
             width: 80%;
             font-size: 25px;
-            margin-top: -20px;
         }
 }
 
